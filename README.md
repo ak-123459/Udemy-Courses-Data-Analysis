@@ -2,8 +2,8 @@
 
 <br></br>
 
-The project aim to apply ETL process on udemy dataset and visualise the udemy dataset to understand the trend that will useful to gain insights from data for better descision making.
-
+The project aim to gain insights from data and key factors that encourge the users to get the subscriptions of udemy courses.and more areas
+to improve courses design for the target users.
 
 ***
 
