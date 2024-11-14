@@ -60,8 +60,23 @@ to improve courses design for the target users.
  <div align= "start">
    
 - ## **Dataset**
-  
- To more about the dataset we have used here go through the link and check in the [kaggle](https://www.kaggle.com/datasets/arzubesiroglu/udemy-courses-dataset) 
+ &nbsp; &nbsp; **Dataset Structure**
+
+ | Column Name       | Data Type | Description                              |
+|-------------------|-----------|------------------------------------------|
+| `course_id`              | Integer   | Unique identifier for each entry         |
+| `course_title`            | String    | title of course   |
+| `url`          | String    | course link             |
+| `is_paid` | Boolean     |course type paid or not |
+| `price`            | Integer      | price of the course                  | 
+|`num_subscribers`|   Integer|subscribers for each course|
+|`num_reviews`| Integer| review for the course|
+| `num_lectures` | Integer     |total lecture on that course |
+| `level`            | String      | level of course (begineer,intermediate,expert)   | 
+|`content_duration`|   Float|Total duration in hours|
+
+
+ To more about the dataset  go through the link.you can also download the dataset  -> [kaggle🔗](https://www.kaggle.com/datasets/arzubesiroglu/udemy-courses-dataset) 
   
   </div>
    
