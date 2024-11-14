@@ -12,6 +12,6 @@ The project aim to apply ETL process on udemy dataset and visualise the udemy da
 5. [Methodology](#Methodlogy)
 6.[Data Visualisation](#Visualisation)
 7.[Key Findings](#Key Findings)
-7.[Recommendations](#Recommendations)
-8.[Conclusion](#Conclusion)
+8.[Recommendations](#Recommendations)
+9.[Conclusion](#Conclusion)
 
