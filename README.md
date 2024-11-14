@@ -16,3 +16,12 @@ The project aim to apply ETL process on udemy dataset and visualise the udemy da
 8. [Recommendations](#Recommendations)
 9. [Conclusion](#Conclusion)
 
+
+<div align= "center">
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/x2mBdn3/file.png" alt="file" border="0"></a>
+  
+  <div/>
+
+## **Project Overview**
+
+This project fine-tunes `bert-base-cased` for Named Entity Recognition (NER) on university data to identify specific entities in academic text. This model is useful for processing university documents and extracting structured information.
