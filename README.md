@@ -10,8 +10,8 @@ The project aim to apply ETL process on udemy dataset and visualise the udemy da
 2. [Dataset](#dataset)
 3. [Requirements](#requirements)
 5. [Methodology](#Methodlogy)
-6.[Data Visualisation](#Visualisation)
-7.[Key Findings](#KeyFindings)
-8.[Recommendations](#Recommendations)
-9.[Conclusion](#Conclusion)
+6. [Data Visualisation](#Visualisation)
+7. [Key Findings](#KeyFindings)
+8. [Recommendations](#Recommendations)
+9. [Conclusion](#Conclusion)
 
