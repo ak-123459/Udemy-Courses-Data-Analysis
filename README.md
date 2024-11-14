@@ -60,7 +60,7 @@ to improve courses design for the target users.
  <div align= "start">
    
 - ## **Dataset**
- &nbsp; &nbsp; **Dataset Structure**
+ &nbsp; &nbsp; **Dataset Structure -**
 
  | Column Name       | Data Type | Description                              |
 |-------------------|-----------|------------------------------------------|
