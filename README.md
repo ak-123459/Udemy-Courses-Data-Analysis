@@ -323,7 +323,7 @@ to improve courses design for the target users.
 <div align= "start">
 
  - ## **Contributors** 
- [**Akash Prasad Mishra**](https://github.com/ak-123459),[**Shivam Tamrakar**](),[**Rohan Kumar Verma**](https://github.com/Vermaji277001)
+ [**Akash Prasad Mishra**](https://github.com/ak-123459),[**Shivam Tamrakar**](https://github.com/ShivamTamrakar16),[**Rohan Kumar Verma**](https://github.com/Vermaji277001)
    
 
 </div>
