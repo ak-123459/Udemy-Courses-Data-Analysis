@@ -79,8 +79,24 @@ to improve courses design for the target users.
  To more about the dataset  go through the link.you can also download the dataset 🔗  -> [kaggle](https://www.kaggle.com/datasets/arzubesiroglu/udemy-courses-dataset) 
   
   </div>
+
+***
+
+
+<div align= "start">
+&nbsp; &nbsp; <a href="https://i.ibb.co/NjjDV7t/icons8-requirements-64.png" alt="dataset" border="0"  width="50"></a> 
+ <div align= "start">
+
    
- 
+ <div align= "start">
+  
+ - ## **Requirements**
+
+   
+  </div>
+
+
+
 
 
  
