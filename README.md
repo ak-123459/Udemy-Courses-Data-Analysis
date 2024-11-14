@@ -182,7 +182,19 @@ to improve courses design for the target users.
   The goal is understanding the key factor or key points that encourge the users to take the Udemy subscriptions.
   
   ##### Task List
+    - Descriptive Analytics (Using Card Visuals)
+      1.Max Lectures
+      2.Median Reviews
+      3.Median Course Durations
   
+    - Visualizations (Using Charts)
+      1.Level-wise Subscribers (in %)
+      2.Level-wise Average Content Duration
+      3.Median Number of Subscribers Level-wise
+      4.Price vs. Number of Subscribers Correlation
+      5.Subscribers vs. Reviews Correlation
+      6.Year-Month Wise Total Number of Subscribers
+      7.Year-wise Reviews in Paid vs. Unpaid Courses
   
 
   #### 2. Data Collection
@@ -198,10 +210,15 @@ to improve courses design for the target users.
   ### Data Visualisations
  **Tools** - *Power BI DashBoard*
 
+  ### Report Building
   
-  
+   **Tools** - *Power BI Report-View*
 
 </div>
+
+
+
+
 
 
 
