@@ -168,7 +168,7 @@ to improve courses design for the target users.
 
 <div align= "start">
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/SyNZJd3/icons8-skills-64.png" width="50" alt="icons8-skills-64" border="0"></a>
+&nbsp; &nbsp; <a href="https://imgbb.com/"><img src="https://i.ibb.co/SyNZJd3/icons8-skills-64.png" width="50" alt="icons8-skills-64" border="0"></a>
 
 </div>
 
@@ -255,7 +255,7 @@ to improve courses design for the target users.
 
 <div align= "start">
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/MCtrJKX/find-1.png" alt="find-1" width="50" border="0"></a>
+&nbsp; &nbsp; <a href="https://imgbb.com/"><img src="https://i.ibb.co/MCtrJKX/find-1.png" alt="find-1" width="50" border="0"></a>
 
 </div>
 
@@ -284,7 +284,7 @@ to improve courses design for the target users.
 
 <div align= "start">
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/q11pdTW/recommended.png" alt="find-1" width="50" border="0"></a>
+ &nbsp; &nbsp;<a href="https://imgbb.com/"><img src="https://i.ibb.co/q11pdTW/recommended.png" alt="find-1" width="50" border="0"></a>
 
 
 </div>
@@ -295,6 +295,10 @@ to improve courses design for the target users.
 
 - ## **Recommendations**
 
+  - Udemy need to be added more courses of All level specializations for particlular subject.this can be beneficial because most of students are intrested in all 
+     level specilizations courses.
+  - Udemy can be also provide some low durations free courses to attract students for the subscriptions of that paid course. beacuse users most subscribed on free courses compare to paid.
+  -  
 
  
 </div>
