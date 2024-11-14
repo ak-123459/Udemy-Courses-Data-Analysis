@@ -9,7 +9,7 @@ The project aim to apply ETL process on udemy dataset and visualise the udemy da
 1. [Project Overview](#project-overview)
 2. [Dataset](#dataset)
 3. [Requirements](#requirements)
-4. [Project Structure](#Project Structure)
+4. [Project Structure](#ProjectStructure)
 5. [Methodology](#Methodlogy)
 6. [Data Visualisation](#Visualisation)
 7. [Key Findings](#KeyFindings)
