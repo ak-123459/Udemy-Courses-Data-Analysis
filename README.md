@@ -122,6 +122,19 @@ to improve courses design for the target users.
   
  - ## **Project Structure**
 
+- **data/**
+  - `raw/`: Contains the raw dataset files.
+  - `processed/`: Contains cleaned and processed data files.
+- **notebooks/**
+  - `analysis.ipynb`: Jupyter notebook for data analysis.
+- **src/**
+  - `data_preprocessing.py`: Script to clean and preprocess the data.
+  - `model.py`: Defines the model architecture.
+- **tests/**
+  - `test_model.py`: Unit tests for the model.
+- `requirements.txt`: Python dependencies for the project.
+- `README.md`: This file.
+- `main.py`: Main entry point for the project.
    </div>
 
 
