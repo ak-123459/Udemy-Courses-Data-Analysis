@@ -122,19 +122,25 @@ to improve courses design for the target users.
   
  - ## **Project Structure**
 
-- **data/**
-  - `raw/`: Contains the raw dataset files.
+
+- **dataset/**
+  - `udemy_dataset/`: Contains the raw dataset files.
   - `processed/`: Contains cleaned and processed data files.
-- **notebooks/**
-  - `analysis.ipynb`: Jupyter notebook for data analysis.
-- **src/**
-  - `data_preprocessing.py`: Script to clean and preprocess the data.
-  - `model.py`: Defines the model architecture.
-- **tests/**
-  - `test_model.py`: Unit tests for the model.
-- `requirements.txt`: Python dependencies for the project.
+  - 
+- **Data Visualisations/**
+  
+  - `Udemy Data Visualisations.pdf`: Data Visualisation in .pdf format.
+  - `Udemy Data Visualisations.pbix`: Data Visualisation in .pbix format.
+ 
+  - 
+- **report/**
+  - `Udemy Data Report.pdf`: contains details report in .pdf format.
+  - `Udemy Data Report.pbix`: contains details report in .pbix format.
+
+
+- `requirements.txt`: software requirements.
 - `README.md`: This file.
-- `main.py`: Main entry point for the project.
+  
    </div>
 
 
