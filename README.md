@@ -10,9 +10,10 @@ The project aim to apply ETL process on udemy dataset and visualise the udemy da
 
 <div align= "center">
   
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/Ksw7GWz/list.png" width="50" alt="list" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Ksw7GWz/list.png" width="50" alt="list" border="0"></a> <div/>
 
-  <div/>
+
+  
 
 ## **Table of Contents**
 1. [Project Overview](#project-overview)
@@ -26,10 +27,9 @@ The project aim to apply ETL process on udemy dataset and visualise the udemy da
 9. [Conclusion](#Conclusion)
 
 
+
 <div align= "center">
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/x2mBdn3/file.png"  width="50" alt="file" border="0"></a>
-  
-  <div/>
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/x2mBdn3/file.png"  width="50" alt="file" border="0"></a> <div/>
 
 ## **Project Overview**
 
