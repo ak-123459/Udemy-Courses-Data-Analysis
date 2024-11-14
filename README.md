@@ -87,7 +87,7 @@ to improve courses design for the target users.
 
 
 <div align= "start">
-&nbsp; &nbsp; <a href="https://i.ibb.co/NjjDV7t/icons8-requirements-64.png" alt="dataset" border="0"  width="50"></a> 
+&nbsp; &nbsp; <a href="https://imgbb.com/"><img src="https://i.ibb.co/NjjDV7t/icons8-requirements-64.png" width="50" alt="icons8-requirements-64" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br /> 
 
 </div>
 
@@ -101,7 +101,7 @@ to improve courses design for the target users.
 
 
 
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/9TTK8Gc/icons8-requirements-64.png" alt="icons8-requirements-64" border="0"></a>
 
 
 
