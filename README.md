@@ -141,19 +141,22 @@ to improve courses design for the target users.
  - ## **Project Structure**
 
 
-- **dataset/**
-- 
-  - `udemy_dataset/`: Contains the structure dataset.
+- **Main/**
+
+  - `udemy_courses_dataset.csv`: Contains the structure dataset.
    
-- **Data Visualisations/**
+- **Main/**
   
   - `Udemy Data Visualisations.pdf`: **Data Visualisations** in .pdf format.
   - `Udemy Data Visualisations.pbix`: Data Visualisation in .pbix format.
  
   - 
-- **report/**
+- **Main/**
   - `Udemy Data Report.pdf`: contains details report in .pdf format.
   - `Udemy Data Report.pbix`: contains details report in .pbix format.
+
+- **Main/**
+  - `Project-Udemy-Courses-template.pbit`:template  to use in other power bi Dashboard.
 
 
 - `requirements.txt`: software requirements.
@@ -320,7 +323,7 @@ to improve courses design for the target users.
 <div align= "start">
 
  - ## **Contributors** 
-
+ [**Akash Prasad Mishra**](https://github.com/ak-123459),[**Shivam Tamrakar**](),[**Rohan Kumar Verma**](https://github.com/Vermaji277001)
    
 
 </div>
