@@ -23,6 +23,7 @@ to improve courses design for the target users.
 7. [Key Findings](#KeyFindings)
 8. [Recommendations](#Recommendations)
 9. [Conclusion](#Conclusion)
+10. [Contributors](#Contributors)
 
  <div/>
 
