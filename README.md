@@ -124,9 +124,9 @@ to improve courses design for the target users.
 
 
 - **dataset/**
-  - `udemy_dataset/`: Contains the raw dataset files.
-  - `processed/`: Contains cleaned and processed data files.
-  - 
+- 
+  - `udemy_dataset/`: Contains the structure dataset.
+   
 - **Data Visualisations/**
   
   - `Udemy Data Visualisations.pdf`: Data Visualisation in .pdf format.
