@@ -16,7 +16,7 @@ to improve courses design for the target users.
 - ## **Table of Contents**
 1. [Project Overview](#project-overview)
 2. [Dataset](#dataset)
-3. [Requirements](#requirements)
+3. [Prerequisites](#Prerequisites)
 4. [Project Structure](#ProjectStructure)
 5. [Methodology](#Methodlogy)
 6. [Data Visualisation](#Visualisation)
@@ -96,9 +96,33 @@ to improve courses design for the target users.
 
 <div align= "start">
   
- - ## **Requirements**
+ - ## **Prerequisites**
+   Before running the analysis, ensure that you have the following skills:
+
+- `Power Bi/Tableu`
+- `Data visualization`
+- `ETL(Extract transform load)`
+- `Statistics`
+- `Kaggle`
 
 </div>
+
+
+***
+
+
+<div align= "start">
+ 
+&nbsp; &nbsp; <a href="https://imgbb.com/"><img src="https://i.ibb.co/DDYn9zS/icons8-structure-48.png" width="50" alt="icons8-structure-48" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>how to download high quality images from facebook</a><br />
+</div>
+
+
+
+<div align= "start">
+  
+ - ## **Project Structure**
+
+   </div>
 
 
 
