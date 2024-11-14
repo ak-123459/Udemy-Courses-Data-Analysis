@@ -220,18 +220,65 @@ to improve courses design for the target users.
    - add two new columns month,year by using published_time field
 
 &nbsp; &nbsp;
-  #### Data Visualisations
+  #### 4.Data Visualisations
  **Tools** - *Power BI DashBoard*
+    
 
 &nbsp; &nbsp;
-  #### Report Building
+  #### 5. Report Building
   
    **Tools** - *Power BI Report-View*
 
 </div>
 
+***
 
 
+
+<div align= "start">
+
+
+- ## **Data Visualisation**
+  
+- Check the file 
+    [Data Visualisations](#DataVisualisations)
+  
+</div>
+
+
+
+
+***
+
+
+
+
+<div align= "start">
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/MCtrJKX/find-1.png" alt="find-1" width="50" border="0"></a>
+
+</div>
+
+
+<div align= "start">
+
+
+- ## **Key Findings**
+
+  - In the subject of subscriber 68%(7M) user joined in those courses whose provide all level(Begineer-Expert) specializations.
+  - in free courses 5x students are subscribes than the paid courses
+  - in price vs Subscriber point of view there are little bit positive(0.37) correlationship between them.so we can say when price increase there are little bit 
+    alos subscriber would be increased.
+  - Also when the number of review increased threre are chances of increament of subscribers(Postive Relationship 0.47).
+  -  In paid courses, subscribers leave more reviews than in unpaid courses.
+  - october,november,february,march these are the months with most subscriber compare to other months.
+ 
+  - 
+</div>
+
+
+
+***
 
 
 
