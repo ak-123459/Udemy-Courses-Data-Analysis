@@ -35,7 +35,7 @@ The project aim to apply ETL process on udemy dataset and visualise the udemy da
  
   &nbsp; &nbsp; <a href="https://imgbb.com/"><img src="https://i.ibb.co/x2mBdn3/file.png"  width="50" alt="file" border="0"></a> <div/>
   
-&nbsp; &nbsp; <div align= "start">
+<div align= "start">
 
   
 - ## **Project Overview**
