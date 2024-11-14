@@ -22,9 +22,9 @@ to improve courses design for the target users.
 1. [Project Overview](#project-overview)
 2. [Dataset](#dataset)
 3. [Prerequisites](#Prerequisites)
-4. [Project Structure](#ProjectStructure)
+4. [Project Structure](#Project-Structure)
 5. [Methodology](#Methodlogy)
-6. [Data Visualisation](#Visualisation)
+6. [Data Visualisation](#Data-Visualisation)
 7. [Key Findings](#KeyFindings)
 8. [Recommendations](#Recommendations)
 9. [Conclusion](#Conclusion)
@@ -241,7 +241,7 @@ to improve courses design for the target users.
 - ## **Data Visualisation**
   
 - Check the file 
-    [Data Visualisations](#DataVisualisations)
+    [Data Visualisations](#Visualisation)
   
 </div>
 
