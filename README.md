@@ -5,6 +5,11 @@
 The project aim to gain insights from data and key factors that encourge the users to get the subscriptions of udemy courses.and more areas
 to improve courses design for the target users.
 
+
+
+
+
+
 ***
 
  <div align= "start">
@@ -30,6 +35,9 @@ to improve courses design for the target users.
 
 
 
+
+
+
 ***
 
 
@@ -47,6 +55,10 @@ to improve courses design for the target users.
 
  
 <br></br>
+
+
+
+
 
 
 ***
@@ -80,9 +92,11 @@ to improve courses design for the target users.
   
   </div>
 
+
+
+  
+
 ***
-
-
 
 
 
@@ -111,9 +125,13 @@ to improve courses design for the target users.
 ***
 
 
+
+
+
+
 <div align= "start">
  
-&nbsp; &nbsp; <a href="https://imgbb.com/"><img src="https://i.ibb.co/DDYn9zS/icons8-structure-48.png" width="50" alt="icons8-structure-48" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>how to download high quality images from facebook</a><br />
+&nbsp; &nbsp; <a href="https://imgbb.com/"><img src="https://i.ibb.co/DDYn9zS/icons8-structure-48.png" width="50" alt="icons8-structure-48" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
 </div>
 
 
