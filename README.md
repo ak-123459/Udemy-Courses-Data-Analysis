@@ -268,7 +268,7 @@ to improve courses design for the target users.
   - In the subject of subscriber 68%(7M) user joined in those courses whose provide all level(Begineer-Expert) specializations.
   - in free courses 5x students are subscribes than the paid courses
   - in price vs Subscriber point of view there are little bit positive(0.37) correlationship between them.so we can say when price increase there are little bit 
-    alos subscriber would be increased.
+    also subscriber would be increased.
   - Also when the number of review increased threre are chances of increament of subscribers(Postive Relationship 0.47).
   -  In paid courses, subscribers leave more reviews than in unpaid courses.
   - october,november,february,march these are the months with most subscriber compare to other months.
@@ -293,19 +293,37 @@ to improve courses design for the target users.
 <div align= "start">
 
 
+
 - ## **Recommendations**
 
   - Udemy need to be added more courses of All level specializations for particlular subject.this can be beneficial because most of students are intrested in all 
      level specilizations courses.
   - Udemy can be also provide some low durations free courses to attract students for the subscriptions of that paid course. beacuse users most subscribed on free courses compare to paid.
-  -  
-
- 
+  -    Udemy can highlight most reviews courses as top most this would be crucial for subscribers gaining.\
+  -    If Courses uploaded on october novemeber and february,march  can be cruial to gain the more subscribers.
+    
 </div>
 
 
 
 
+
+***
+
+<div align= "start">
+
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/wJ6kKqM/problem-solving.png" alt="problem-solving" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload</a><br />
+</div>
+
+
+<div align= "start">
+
+ - ## **Contributors** 
+
+   
+
+</div>
 
 
 
