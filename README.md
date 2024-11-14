@@ -162,8 +162,14 @@ to improve courses design for the target users.
    </div>
 
 
+
 ***
 
+<div align= "start">
+
+- ### **Methodology**
+
+</div>
 
 
 
