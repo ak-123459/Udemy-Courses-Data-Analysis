@@ -185,17 +185,17 @@ to improve courses design for the target users.
   
 
   #### 2. Data Collection
- # Tools-  **Poer-Bi Data Source**
+  **Tools** -  *Poer-Bi Data Source*
   We have downloaded the dataset from the open source machine learning aand data scienece websites [kaggle](https://www.kaggle.com/datasets/arzubesiroglu/udemy-courses-dataset) and also imported in power bi using excel workbook.
 
   #### 3. Data Preprocessing
-  # Tools- **Power-BI Query Editor**
+  **Tools** - *Power-BI Query Editor*
    - Removing nan values,empty,duplcates
    - drop unuseful columns like url etc.
    - add two new columns month,year by using published_time field
 
   ### Data Visualisations
- # Tools- **Power BI DashBoard**
+ **Tools** - *Power BI DashBoard*
 
   
   
