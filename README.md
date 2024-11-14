@@ -147,7 +147,7 @@ to improve courses design for the target users.
    
 - **Data Visualisations/**
   
-  - `Udemy Data Visualisations.pdf`: Data Visualisation in .pdf format.
+  - `Udemy Data Visualisations.pdf`: **Data Visualisations** in .pdf format.
   - `Udemy Data Visualisations.pbix`: Data Visualisation in .pbix format.
  
   - 
