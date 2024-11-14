@@ -313,7 +313,7 @@ to improve courses design for the target users.
 <div align= "start">
 
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/wJ6kKqM/problem-solving.png" alt="problem-solving" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload</a><br />
+ &nbsp; &nbsp; <a href="https://imgbb.com/"><img src="https://i.ibb.co/wJ6kKqM/problem-solving.png" alt="problem-solving" width="50" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload</a><br />
 </div>
 
 
