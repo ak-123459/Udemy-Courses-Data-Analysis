@@ -205,9 +205,10 @@ to improve courses design for the target users.
       6.Year-Month Wise Total Number of Subscribers
       
       7.Year-wise Reviews in Paid vs. Unpaid Courses
-&nbsp; &nbsp;
+      
 
-  #### 2. Data Collection
+&nbsp; &nbsp;     
+#### 2. Data Collection
   **Tools** -  *Poer-Bi Data Source*
   We have downloaded the dataset from the open source machine learning aand data scienece websites [kaggle](https://www.kaggle.com/datasets/arzubesiroglu/udemy-courses-dataset) and also imported in power bi using excel workbook.
 
@@ -223,7 +224,6 @@ to improve courses design for the target users.
  **Tools** - *Power BI DashBoard*
 
 &nbsp; &nbsp;
-
   #### Report Building
   
    **Tools** - *Power BI Report-View*
