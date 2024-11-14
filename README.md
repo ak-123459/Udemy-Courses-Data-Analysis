@@ -89,16 +89,15 @@ to improve courses design for the target users.
 <div align= "start">
 &nbsp; &nbsp; <a href="https://i.ibb.co/NjjDV7t/icons8-requirements-64.png" alt="dataset" border="0"  width="50"></a> 
 
-   </div>
+</div>
 
 
-   
- <div align= "start">
+
+<div align= "start">
   
  - ## **Requirements**
 
-   
-  </div>
+</div>
 
 
 
