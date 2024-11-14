@@ -14,7 +14,7 @@ The project aim to apply ETL process on udemy dataset and visualise the udemy da
 
 <div align= "start">
   
-## **Table of Contents**
+- ## **Table of Contents**
 1. [Project Overview](#project-overview)
 2. [Dataset](#dataset)
 3. [Requirements](#requirements)
