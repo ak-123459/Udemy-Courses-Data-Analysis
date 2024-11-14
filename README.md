@@ -165,14 +165,21 @@ to improve courses design for the target users.
 
 ***
 
+
+div align= "start">
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/SyNZJd3/icons8-skills-64.png" width="30" alt="icons8-skills-64" border="0"></a>
+
+</div>
+
+
 <div align= "start">
 
 - ### **Methodology**
 
 </div>
 
-
-
+<
 
 
 
