@@ -29,14 +29,32 @@ The project aim to apply ETL process on udemy dataset and visualise the udemy da
 
 
 
+
+
 <div align= "center">
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/x2mBdn3/file.png"  width="50" alt="file" border="0"></a> <div/>
 
 
 <div align= "start">
+
   
 - ## **Project Overview**
-[**Udemy**](https://www.udemy.com/), Inc. is an education technology company, founded in May 2010 by **Eren Bali**
-
+[**Udemy**](https://www.udemy.com/), Inc. is an education technology company, founded in May 2010 by **Eren Bali**.Udemy Provide the educational courses in different subjects/area.so in this project we are going to explore and anlalyze a dataset of udemy.this dataset related to subject buisness.we have explored all the important field like number of subscribers,price and much more.The final objective is to understand the courses purchases patterns of user.what are the key factors increase the interest of users to join the course or take subscription of that particuler course in udemy. 
 
  <div/>
+
+ 
+
+
+
+
+<div align= "center">
+ <a href="https://imgbb.com/"><img src="https://i.ibb.co/D9vKsxH/dataset.png" alt="dataset" border="0"  width="50"></a> 
+ <div align= "start">
+
+   
+ 
+
+
+ 
+
