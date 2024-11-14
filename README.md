@@ -7,10 +7,9 @@ The project aim to apply ETL process on udemy dataset and visualise the udemy da
 
 
 
-
-- <div align= "start">
+<div align= "start">
   
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/Ksw7GWz/list.png" width="50" alt="list" border="0"></a> <div/>
+- <a href="https://imgbb.com/"><img src="https://i.ibb.co/Ksw7GWz/list.png" width="50" alt="list" border="0"></a> <div/>
 
 
 
