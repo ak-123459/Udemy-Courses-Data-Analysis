@@ -50,7 +50,7 @@ to improve courses design for the target users.
 
  
 - ## **Project Overview**
-[**Udemy**](https://www.udemy.com/), Inc. is an education technology company, founded in May 2010 by **Eren Bali**.Udemy Provide the educational courses in different subjects/area.so in this project we are going to explore and anlalyze a dataset of udemy.this dataset related to subject buisness.we have explored all the important field like number of subscribers,price and much more.The final objective is to understand the courses purchases patterns of user.what are the key factors increase the interest of users to join the course or take subscription of that particuler course in udemy. 
+[**Udemy**](https://www.udemy.com/), Inc. is an education technology company, founded in May 2010 by **Eren Bali**.Udemy Provide the educational courses in different subjects/area.so in this project we are going to explore and anlalyze a dataset of udemy.this dataset related to subject buisness.we have explored all the important field like number of subscribers,price and much more.In this project we have used power-bi Desktop for intractive data visulaizations and easy data transformation.we have also used power-bi dashboard and Quick Measures for correlations calculations. for complex The final objective is to understand the courses purchases patterns of user.what are the key factors increase the interest of users to join the course or take subscription of that particuler course in udemy. 
  <div/>
 
  
@@ -113,7 +113,7 @@ to improve courses design for the target users.
  - ## **Prerequisites**
    Before running the analysis, ensure that you have the following skills:
 
-- `Power Bi/Tableu`
+- `Power Bi Desktop`
 - `Data visualization`
 - `ETL(Extract transform load)`
 - `Statistics`
@@ -166,9 +166,9 @@ to improve courses design for the target users.
 ***
 
 
-div align= "start">
+<div align= "start">
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/SyNZJd3/icons8-skills-64.png" width="30" alt="icons8-skills-64" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/SyNZJd3/icons8-skills-64.png" width="50" alt="icons8-skills-64" border="0"></a>
 
 </div>
 
@@ -176,10 +176,32 @@ div align= "start">
 <div align= "start">
 
 - ### **Methodology**
+  In the field of data analytics/data science a analyst need to  follow some steps like probelm statements,data extraction,data transfromations and data loading we called the process ETL(Extract transform load) and also Descriptive analytics.so in this project we have followed these setps in power bi.I have provided a file of Udemy_da_powerbi.pdf that contain all streps in pictures to picture that we have used in this analysis project.in the down below the basic method we have followed in each step-
+  
+  #### 1. Problem Definition
+  The goal is understanding the key factor or key points that encourge the users to take the Udemy subscriptions.
+  
+  **Task List**
+  
+
+  #### 2. Data Collection
+ # Tools-  **Poer-Bi Data Source**
+  We have downloaded the dataset from the open source machine learning aand data scienece websites [kaggle](https://www.kaggle.com/datasets/arzubesiroglu/udemy-courses-dataset) and also imported in power bi using excel workbook.
+
+  #### 3. Data Preprocessing
+  # Tools- **Power-BI Query Editor**
+   - Removing nan values,empty,duplcates
+   - drop unuseful columns like url etc.
+   - add two new columns month,year by using published_time field
+
+  ### Data Visualisations
+ # Tools- **Power BI DashBoard**
+
+  
+  
 
 </div>
 
-<
 
 
 
