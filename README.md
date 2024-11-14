@@ -183,11 +183,13 @@ to improve courses design for the target users.
   
   ##### Task List
     - Descriptive Analytics (Using Card Visuals)
+      
       1.Max Lectures
       2.Median Reviews
       3.Median Course Durations
   
     - Visualizations (Using Charts)
+      
       1.Level-wise Subscribers (in %)
       2.Level-wise Average Content Duration
       3.Median Number of Subscribers Level-wise
