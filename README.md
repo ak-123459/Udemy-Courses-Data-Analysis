@@ -8,22 +8,12 @@ The project aim to apply ETL process on udemy dataset and visualise the udemy da
 
 
 
-<div align= "center">
+<div align= "start">
   
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Ksw7GWz/list.png" width="50" alt="list" border="0"></a> <div/>
 
 
-<p align="left">
-  
-  <img src="https://i.ibb.co/Ksw7GWz/list.png" width="50" alt="Image description" style="vertical-align:middle; margin-right: 0px;">
-  <span style="vertical-align:middle;">This is the text aligned to the right of the image.</span>
-  
-</p>
 
-
-
-
-  
 
 ## **Table of Contents**
 1. [Project Overview](#project-overview)
