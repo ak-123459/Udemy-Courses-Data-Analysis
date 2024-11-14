@@ -76,7 +76,7 @@ to improve courses design for the target users.
 |`content_duration`|   Float|Total duration in hours|
 
 
- To more about the dataset  go through the link.you can also download the dataset  -> [kaggle🔗](https://www.kaggle.com/datasets/arzubesiroglu/udemy-courses-dataset) 
+ To more about the dataset  go through the link.you can also download the dataset 🔗  -> [kaggle](https://www.kaggle.com/datasets/arzubesiroglu/udemy-courses-dataset) 
   
   </div>
    
