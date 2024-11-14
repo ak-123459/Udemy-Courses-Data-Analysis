@@ -282,6 +282,27 @@ to improve courses design for the target users.
 
 
 
+<div align= "start">
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/q11pdTW/recommended.png" alt="find-1" width="50" border="0"></a>
+
+
+</div>
+
+
+<div align= "start">
+
+
+- ## **Recommendations**
+
+
+ 
+</div>
+
+
+
+
+
 
 
 
